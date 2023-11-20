@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0LJ3YMnu8OH6gxWV89yb5vBiAqSYwWPjzTBqONjBQOVCvh2Ebc6IppQBHBZLq2sAPidAk8W0j2U7XPZhDL/XZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Augmento\\source\\repos\\dotnetTaskTwo2\\dotnetTaskTwo2\\dotnetTaskTwo2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Augmento\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Augmento\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Augmento\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Augmento\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Augmento\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Augmento\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
